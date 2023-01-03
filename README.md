@@ -27,3 +27,4 @@
 **저장소 이미지** 삽입하기
 
 ![r분석 연습](/Users/shintaeil/Desktop/스크린샷 2023-01-01 오후 3.46.36.png)
+<img width="539" alt="스크린샷 2023-01-01 오후 3 54 54" src="https://user-images.githubusercontent.com/106367655/210332038-66ddbab3-b259-4add-800f-93cf8c6b387d.png">
